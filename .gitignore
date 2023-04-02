@@ -1,4 +1,16 @@
+.idea
 *.tfstate
 *.tfstate.*
 **.terraform
 **.terraform.lock.*
+**google_credentials.json
+**logs/
+**.env
+**__pycache__/
+.history
+serving_dir
+*.csv
+.ipynb_checkpoints/
+*.json
+**/data/*
+**/tmp/*
