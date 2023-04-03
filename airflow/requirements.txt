@@ -1,5 +1,0 @@
-pyarrow
-pandas
-sqlalchemy 
-psycopg2-binary
-apache-airflow-providers-google
